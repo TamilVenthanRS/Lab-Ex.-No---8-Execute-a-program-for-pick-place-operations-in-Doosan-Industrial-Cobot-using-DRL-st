@@ -1,8 +1,13 @@
-# Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-staudio
+### EXP NO: 07
+
+### Date:22/11/22
+
+# <p align = "center"> Execute a program for pick place operations in Doosan Industrial Cobot using DRL staudio</p>
 ## Aim :
 To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
 
-##Components Required: Doosan Industrial Collaborative Robot, 2 jaw gripper ,*DRL (Doosan Robotics Language) Studio Software
+## Components Required: 
+Doosan Industrial Collaborative Robot, 2 jaw gripper ,*DRL (Doosan Robotics Language) Studio Software
 
 
 ## Theory 
